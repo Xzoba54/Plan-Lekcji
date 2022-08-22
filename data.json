@@ -2,5 +2,13 @@
     {
         "day": 1,
         "lessons": ["matematyka","polski","wf"]
+    },
+    {
+        "day": 2,
+        "lessons": ["polski","angielski","informatyka"]
+    },
+    {
+        "day": 3,
+        "lessons": ["niemiecki","wf","biologai"]
     }
 ]
