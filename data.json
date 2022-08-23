@@ -1,22 +1,37 @@
 [
     {
+        "day": null,
+        "col": 1,
+        "content": ["1","2","3","4","5","6","7","8","9","10"]
+    },
+    {
+        "day": null,
+        "col": 2,
+        "content": ["7.45-8.30","8.35-9.20","9.25-10.10","10.20-11.05","11.10-11.55","12.15-13.00","13.05-13.50","13.55-14.40","14.45-15.30","15.35-16.20"]
+    },
+    {
         "day": 1,
-        "lessons": ["polski","wf","informatyka","matematyka","matematyka","matematyka","matematyka","","",""]
+        "col": 3,
+        "content": ["polski","wf","informatyka","matematyka","matematyka","matematyka","matematyka","","",""]
     },
     {
         "day": 2,
+        "col": 4,
         "lessons": ["polski","wf","informatyka","matematyka","matematyka","matematyka","matematyka","","",""]
     },
     {
         "day": 3,
+        "col": 5,
         "lessons": ["polski","wf","informatyka","matematyka","matematyka","matematyka","matematyka","","",""]
     },
     {
         "day": 4,
+        "col": 6,
         "lessons": ["polski","wf","informatyka","matematyka","matematyka","matematyka","matematyka","","",""]
     },
     {
         "day": 5,
+        "col": 7,
         "lessons": ["polski","wf","informatyka","matematyka","matematyka","matematyka","matematyka","","",""]
     }
 ]
