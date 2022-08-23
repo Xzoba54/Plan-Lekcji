@@ -1,5 +1,0 @@
-[
-  {
-    "content": ["hour == 7 && minute >=45 || hour == 8 && minute <= 30"]
-  }
-]
