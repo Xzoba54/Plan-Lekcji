@@ -1,14 +1,22 @@
 [
     {
         "day": 1,
-        "lessons": ["matematyka","polski","wf"]
+        "lessons": ["polski","wf","informatyka","matematyka","matematyka","matematyka","matematyka","","",""]
     },
     {
         "day": 2,
-        "lessons": ["polski","angielski","informatyka"]
+        "lessons": ["polski","wf","informatyka","matematyka","matematyka","matematyka","matematyka","","",""]
     },
     {
         "day": 3,
-        "lessons": ["niemiecki","wf","biologai"]
+        "lessons": ["polski","wf","informatyka","matematyka","matematyka","matematyka","matematyka","","",""]
+    },
+    {
+        "day": 4,
+        "lessons": ["polski","wf","informatyka","matematyka","matematyka","matematyka","matematyka","","",""]
+    },
+    {
+        "day": 5,
+        "lessons": ["polski","wf","informatyka","matematyka","matematyka","matematyka","matematyka","","",""]
     }
 ]
